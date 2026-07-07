@@ -1,9 +1,0 @@
-ipykernel
-scikit-learn
-seaborn
-matplotlib
-scipy
-xgboost
-pandas
-streamlit
-joblib
